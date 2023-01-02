@@ -1,0 +1,23 @@
+
+Step 01:
+KNN Regressor:
+1. Import data set
+2. Seperate x(Gender, Height) and y (y=Weight)
+3. Train = 70%, Test = 30%
+4. Apply Linear Regression
+5. Evaluate Model (Accuracy, MSE)
+6. Apply KNN Regressor: https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsRegressor.html
+7. Evaluate Model (Accuracy, MSE, Prediction)
+8. Evaluate Model (Accuracy, MSE, Prediction) and Compare with KNN model and Linear regression as well.
+
+
+Step 02:
+KNN Classifier:
+1. Import data set
+2. Seperate x and (y=Gender)
+3. Train = 70%, Test = 30%
+4. Apply KNN Classifier 
+5. Evaluate Model by Accuracy
+6. Apply KNN Classifier: https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+
+
