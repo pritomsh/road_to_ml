@@ -16,7 +16,7 @@
 - 
 
 ## PythonOpenCV 
-- Check out this repo for [Python OpenCV Basics to Advanced](https://github.com/pritomsh/PythonOpenCV1011/tree/master/PythonOpenCVBasics) .
+- Check out this repo for [Python OpenCV Basics to Advanced](https://github.com/pritomsh/PythonOpenCV1011) .
 ## Authors
 
 - [@pritomsh](https://www.github.com/pritomsh)
